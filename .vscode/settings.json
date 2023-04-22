@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Chitauri\\.msvscode.hdinsight\\hdinsightJupyter\\Scripts\\python.exe",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
+}
